@@ -4,7 +4,8 @@
   "description": "Huto Encrypt/Decrypt Project",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "start": "node index.js",
+    "build": ""
   },
   "repository": {
     "type": "git",
