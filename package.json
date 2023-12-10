@@ -1,0 +1,22 @@
+{
+  "name": "hutocrypt",
+  "version": "1.0.0",
+  "description": "Huto Encrypt/Decrypt Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hutoorg/hutocrypt.git"
+  },
+  "author": "Huto",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/Hutoorg/hutocrypt/issues"
+  },
+  "homepage": "https://github.com/Hutoorg/hutocrypt#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
